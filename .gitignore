@@ -1,0 +1,4 @@
+*.zip
+.env*
+.ipynb_checkpoints
+.~lock*
